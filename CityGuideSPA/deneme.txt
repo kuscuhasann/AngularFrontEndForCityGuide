@@ -1,0 +1,308 @@
+
+<!doctype html>
+<html class="no-js" lang="tr">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <base href="https://www.dilmac.com.tr/">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="canonical" href="https://www.dilmac.com.tr/kurumsal/detay/misyon" /><meta name="content-language" content="tr" />
+   <meta name="author" content="Minyazılım">
+   <meta name="distribution" content="Global">
+   <meta name="robots" content="All, Index, Follow">
+   <meta name="googlebot" content="All, Index, Follow">
+   <meta name="rating" content="General">
+   <meta name="url" content="https://www.dilmac.com.tr/iletisim"><link rel="shortcut icon" type="image/x-icon" href="https://www.dilmac.com.tr/upload/site/favicon.webp"><link rel="icon" type="image/x-icon" href="https://www.dilmac.com.tr/upload/site/favicon.webp"><title>Misyon</title><meta name="title" content="Dilmaç proje, çeviri, eğitim ve danışmalık misyonu" />
+  	<meta name="description" content="Dilmaç proje, çeviri, eğitim ve danışmalık olarak misyonumuz hep en iyisi içindir">
+    <meta name="keywords" content="Site Genel key key, deneme,deneme">  <link rel="stylesheet" href="assets/page/libs/owlcarousel/owl.carousel.min.css" media="all">
+<link rel="stylesheet" href="assets/page/libs/owlcarousel/owl.theme.default.min.css" media="all">
+  <link rel="stylesheet" href="assets/page/libs/bootstrap/css/bootstrap.min.css" media="all">
+  <link rel="stylesheet" href="assets/page/libs/fontawesome/css/font-awesome.min.css" media="all">
+  <link id="lgx-master-style" rel="stylesheet" href="assets/page/css/style-default.min.css" media="all">
+  <script src="assets/page/js/vendor/modernizr-2.8.3.min.js"></script>
+
+</head>
+<body class="page page-template">
+  <div class="lgx-container ">
+  <header>
+      <div id="lgx-header" class="lgx-header">
+          <div class="lgx-header-bottom lgx-header-bottom-fixed lgx-header-bottom-scrol-white">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-xs-12">
+                          <nav class="navbar navbar-default lgx-navbar">
+                              <div class="container">
+                                  <nav class="navbar navbar-default lgx-navbar lgx-navbar-search">
+                                      <div class="lgxcontainer">
+                                          <div class="navbar-header">
+                                              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+
+                                                  <span class="icon-bar"></span>
+                                                  <span class="icon-bar"></span>
+                                                  <span class="icon-bar"></span>
+                                              </button>
+                                              <a href="#toggle-search" class="hidden-lg hidden-md hidden-sm lgx-search-mobile search-animate"><span class="glyphicon glyphicon-search"></span></a>
+                                              <div class="lgx-logo">
+                                                  <a href="https://www.dilmac.com.tr/" class="lgx-scroll">
+                                                      <img src="upload/site/logo-150X50.webp" alt="">
+                                                  </a>
+                                              </div>
+                                          </div>
+                                          <div class="collapse navbar-collapse">
+                                              <ul class="nav navbar-nav lgx-nav">
+
+                                                  <li class=""><a class="lgx-scroll" href="https://www.dilmac.com.tr/">Anasayfa</a></li>
+                                                  <li class="active"><a class="lgx-scroll" href="kurumsal">Kurumsal</a></li><li><a class="lgx-scroll" href="referanslar">Referanslar</a></li><li><a class="lgx-scroll" href="egitmenler">Eğitmenler</a></li><li><a class="lgx-scroll" href="blog">Blog</a></li>                                                  <li class=""><a class="lgx-scroll" href="iletisim">İLETİŞİM</a></li>
+                                                  <li><a target="_blank" class="lgx-scroll" href="https://www.kurtneslihan.com" rel="nofollow"><img src="assets/page/img/nk.png" style="width:25px;height:25px;margin-top:-5px;" alt="Neslihan Kurt"/></a></li>
+                                              </ul>
+                                          </div>
+                                      </div>
+                                  </nav>
+                              </div>
+                          </nav>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </header>
+<section>
+    <div class="lgx-banner lgx-banner-inner" style="background-image:url(https://www.dilmac.com.tr/upload/sayfalar/kurumsal/kurumsalx.webp);">
+        <div class="lgx-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="lgx-heading-area">
+                            <div class="lgx-heading lgx-heading-white">
+                                <h2 class="heading-title">Misyon</h2>
+                            </div>
+                            <ul class="breadcrumb">
+                                <li><a href=""><i class="icon-home6"></i>Anasayfa</a></li>
+                                <li class="active">Kurumsal</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+        <div id="lgx-about" class="lgx-about lgx-about-bottom">
+            <div class="lgx-inner">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-xs-12 col-md-8">
+                            <div class="lgx-about-area">
+                                <div class="lgx-heading">
+                                    <h2 class="heading-title">Misyon</h2>
+                                    <h4 class="heading-subtitle">Kurumsal</h4>
+                                </div>
+                                <div class="col-xs-12">
+                                    <img src="upload/sayfalar/kurumsal/misyon-800X600.webp" alt="Misyon"  style="padding-bottom:20px;">
+                                </div><br/>
+                                <div class="lgx-about-content">
+                                    <p class="text"><br/>
+                                    <p>Dilmaç proje, çeviri, eğitim ve danışmalık şirketi olarak işaret dili alanında yapılan tüm işlerin daha kaliteli olmasını sağlamayı misyon olarak edindik. İşaret dili alanında yapılan işlerin işitme engellilere hizmet ettiğini unutmayan dilmaç hem işaret dili alanında iş yapanların hem de işaret dili alanında yapılan işlerin hizmet ettiği işitme engellilerin daha kaliteli hizmet bulmasını hak sayarak bu yolda mücadeleyi misyon kabul etmektedir.<br></p>                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-12 col-md-4">
+                          <div class="row">
+                            <div class="col-xs-12">
+                                <div class="lgx-events-area">
+                                    <div class="row">
+                                      <div class="sidebar widget_nav_menu m-t-3">
+                                      <ul class="menu" id="menu-services-menu">
+                                        <div class="genelbaslik">
+                                          <li class="current-menu-item1">
+                                            KURUMSAL                                          </li>
+                                        </div>
+
+                                        <div class="lgx-single-event net">
+                                                  <div class="event-info net linkcolor">
+                                                      <a   href="kurumsal/detay/hakkimizda">Hakkımızda</a>
+                                                  </div>
+                                              </div><div class="lgx-single-event net aktifha">
+                                                  <div class="event-info net">
+                                                      <a   href="kurumsal/detay/misyon">Misyon</a>
+                                                  </div>
+                                              </div><div class="lgx-single-event net">
+                                                  <div class="event-info net linkcolor">
+                                                      <a   href="kurumsal/detay/vizyon">Vizyon</a>
+                                                  </div>
+                                              </div>                                      </ul>
+                                    </div><br/>
+                                    <div class="genelbaslik">
+                                      SON EKLENENLER
+                                    </div>
+                                    
+                                      <div class="lgx-single-event net">
+                                          <div class="thumb">
+                                            <a href="blog/detay/isaret-dili-nedir"><img src="upload/sayfalar/blog/eskied-turk-isaret-dili-kursunu-aciyor_d7aef-115X69.webp" alt="İşaret Dili Nedir?"></a>
+                                          </div>
+                                          <div class="event-info net">
+                                              <a class="date" href="blog/detay/isaret-dili-nedir">30/03/2021</a>
+                                              <h3 class="title"><a href="blog/detay/isaret-dili-nedir">İşaret Dili Nedir?</a></h3>
+
+                                          </div>
+                                      </div>
+                                                                          </div>
+                                </div>
+                            </div>
+                          </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+<section>
+  <div class="demo10">
+           <div class="container">
+               <h3 class="text-center">FİYATLANDIRMA</h3><br/>
+               <div class="row">
+            
+                <div class="col-md-3 col-sm-6">
+                    <div class="pricingTable10">
+                        <div class="pricingTable-header">
+                            <h3 class="heading">Seçenek 1</h3>
+                            <span class="price-value">
+                                <span class="currency">₺</span>500
+                                <span class="month"></span>
+                            </span>
+                        </div>
+                        <div class="pricing-content">
+                            <ul>
+
+                                        <li>Danışmanlık</li>
+
+                                
+
+                                        <li>Eğitim</li>
+
+                                
+
+                                        <li>Çeviri</li>
+
+                                
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-3 col-sm-6">
+                    <div class="pricingTable10">
+                        <div class="pricingTable-header">
+                            <h3 class="heading">Lüks Paket</h3>
+                            <span class="price-value">
+                                <span class="currency">₺</span>1500
+                                <span class="month"></span>
+                            </span>
+                        </div>
+                        <div class="pricing-content">
+                            <ul>
+
+                                        <li>Danışmanlık</li>
+
+                                
+
+                                        <li>Eğitim</li>
+
+                                
+
+                                        <li>Çeviri</li>
+
+                                
+
+                                        <li>Proje destek</li>
+
+                                
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+                               </div>
+           </div>
+       </div>
+</section>
+<footer>
+    <div id="lgx-footer" class="lgx-footer">
+
+        <div class="lgx-footer-middle">
+            <div class="container">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="lgx-footer-single">
+                          <a class="logo" href="https://www.dilmac.com.tr/"><img src="upload/site/altlogo-150X50.webp" alt=""></a>
+                          <address>
+                            Deneme Adresi                          </address>
+                          <ul class="list-unstyled lgx-address-info">
+                              <li><a href="tel:05459370842"><i class="fa fa-phone"></i>05459370842</a></li>
+                              <li><a href="mailto:info@dilmac.com.tr"><i class="fa fa-envelope"></i>info@dilmac.com.tr</a></li>
+                          </ul>
+                          <ul class=" list-inline lgx-social-footer">
+                            <li><a target="_blank" title="Youtube" href="youtube" rel="nofollow"><i class="fa fa-youtube"></i></a></li>                          </ul>
+                      </div>
+                  </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="lgx-footer-single">
+                            <h2 class="title">Kategoriler</h2>
+                            <ul class="list-unstyled">
+                                <li><a href="">Anasayfa</a></li>
+                                
+                                      <li><a href="kurumsal">Kurumsal</a></li>
+                                    
+                                      <li><a href="referanslar">Referanslar</a></li>
+                                    
+                                      <li><a href="egitmenler">Eğitmenler</a></li>
+                                    
+                                      <li><a href="blog">Blog</a></li>
+                                                                    <li><a href="iletisim">İletişim</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="lgx-footer-single">
+                            <h2 class="title">Blog Yazıları</h2>
+                            <ul class="list-unstyled">
+                              
+                                <li><a href="blog/detay/isaret-dili-nedir">İşaret Dili Nedir?</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="lgx-footer-bottom">
+                    <div class="lgx-copyright">
+
+                        <p>©2021 Dilmaç Proje, Çeviri, Eğitim ve Danışmalık Limited Şirketi</p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+<script src="assets/page/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="assets/page/libs/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/page/libs/jquery.smooth-scroll.js"></script>
+<script src="assets/page/libs/jquery.validate.js"></script>
+<script type="text/javascript" src="assets/page/libs/maginificpopup/jquery.magnific-popup.min.js"></script>
+<script src="assets/page/libs/owlcarousel/owl.carousel.js"></script>
+<script src="assets/page/libs/countdown.js"></script>
+<script src="assets/page/libs/waypoints.min.js"></script>
+<script src="assets/page/libs/counterup/jquery.counterup.min.js"></script>
+<script src="assets/page/libs/isotope/isotope.pkgd.min.js"></script>
+<script src="assets/page/libs/jquery.smooth-scroll.min.js"></script>
+<script src="assets/page/libs/jquery.easing.min.js"></script>
+<script src="assets/page/libs/typed/typed.min.js"></script>
+<script src="assets/page/js/custom.script.js"></script>
+</body>
+</html>
